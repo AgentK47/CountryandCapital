@@ -147,7 +147,7 @@ public class CountryActivity extends AppCompatActivity {
             }
         }
     }
-
+//Countries lists added to the application
     public void AddCountries(){
         Countries.add(new Country("Andorra","Andorra la Vella","ad"));
         Countries.add(new Country("United Arab Emirates","Abu Dhabi","ae"));
